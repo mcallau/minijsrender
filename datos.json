@@ -6,13 +6,20 @@
 
         },
         {
-            "nombre":"PELE",
+            "nombre":"PEssLE",
             "dorsal":9
         },
         {
-            "nombre":"MESI",
+            "nombre":"MESssI",
+            "dorsal":10
+
+        },
+        {
+            "nombre":"MESssI",
             "dorsal":10
 
         }
+       
+
     ]
 }
