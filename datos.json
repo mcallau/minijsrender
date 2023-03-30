@@ -1,0 +1,14 @@
+{
+    "jugadores":[
+        {
+            "nombre":"MARADONA",
+            "dorsal":10
+
+        },
+        {
+            "nombre":"pele",
+            "dorsal":9
+        },
+        {}
+    ]
+}
